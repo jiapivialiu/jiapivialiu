@@ -71,12 +71,15 @@ This section will showcase some of my projects and experiences. Feel free to exp
   * Open-Source HuggingFace Model [*e5-small-lora*](https://huggingface.co/MayZhou/e5-small-lora-ai-generated-detector}{e5-small-lora}).
   * Ranked TOP on [RAID](https://raid-bench.xyz/leaderboard) benchmark leaderboard.
   * Collaborators: @menglinzhou, BZ.
-  
+
 ### Current Indie Work
 
 * Financial text analysis hub for semantic analysis, sentiment understanding, time sereis forecasting, and more.
   * Open-source resources [*fintext-forecasting*](https://github.com/jiapivialiu/fintext-forecasting) under active development.
-
+* Statflix & Chill: [*statflix-n-chill*](https://github.com/jiapivialiu/statflix-n-chill)
+  * A list of useful things that require low efforts for statistical researchers to do while in low energy 🪫.
+  * Welcome collaborators!
+ 
 ### Past Interests
 * Statistics Graduate Student Seminar Organizer, UBC, Vancouver in 2023-2025.
   * Peer contributors: @xijohnny, JH.
