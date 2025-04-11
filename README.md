@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=jiapivialiu&show_icons=true&theme=light" alt="GitHub stats" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=jiapivialiu&theme=light" alt="GitHub Streak" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jiapivialiu&show_icons=true&theme=light" alt="GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiapivialiu&layout=compact&theme=light" alt="Top Langs" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiapivialiu&layout=compact&theme=light" alt="Top Langs" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jiapivialiu&theme=light" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -73,14 +71,11 @@ This section will showcase some of my projects and experiences. Feel free to exp
   * Open-Source HuggingFace Model [*e5-small-lora*](https://huggingface.co/MayZhou/e5-small-lora-ai-generated-detector}{e5-small-lora}).
   * Ranked TOP on [RAID](https://raid-bench.xyz/leaderboard) benchmark leaderboard.
   * Collaborators: @menglinzhou, BZ.
- 
+  
 ### Current Indie Work
 
 * Financial text analysis hub for semantic analysis, sentiment understanding, time sereis forecasting, and more.
   * Open-source resources [*fintext-forecasting*](https://github.com/jiapivialiu/fintext-forecasting) under active development.
-  * Welcome potential collaborators!
-* And more?
-  * Welcome collaborators for a Datathon or Hackathon project!
 
 ### Past Interests
 * Statistics Graduate Student Seminar Organizer, UBC, Vancouver in 2023-2025.
@@ -96,23 +91,46 @@ This section will showcase some of my projects and experiences. Feel free to exp
 * Survey studies on various topics including usage of cloud computing for big data for various national competitions in China in 2015-2017.
   * Collaborators: JJ, YY, SY, et al.
 
+## 🧰 Toolkits
+
+<p align="left"> 
+  <!-- ML / DL / Scientific Frameworks --> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> 
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a> 
+  <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://img.shields.io/badge/JAX-1C1C1C?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/> </a> 
+  <a href="https://huggingface.co/" target="_blank"> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> </a> 
+  <!-- Statistical / Scientific Libraries --> 
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/> </a> 
+  <a href="https://eigen.tuxfamily.org/" target="_blank"> <img src="https://img.shields.io/badge/Eigen-3A3A3A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Eigen"/> </a> 
+  <a href="https://arma.sourceforge.net/" target="_blank"> <img src="https://img.shields.io/badge/Armadillo-1B2A49?style=for-the-badge&logo=c&logoColor=white" alt="Armadillo"/> </a> 
+  <!-- Data / Analytics --> 
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> </a> 
+  <a href="https://www.tidyverse.org/packages/#core-tidyverse" target="_blank"> <img src="https://img.shields.io/badge/Tidyverse-9933CC?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/> </a> 
+  <!-- Cloud Platform -->
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-0066B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/> </a> 
+  <!-- Reporting / Documentation --> 
+  <a href="https://quarto.org/" target="_blank"> <img src="https://img.shields.io/badge/Quarto-4A3F7C?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto"/> </a> 
+  <a href="https://www.markdownguide.org/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/> </a> 
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> </a> 
+  <!-- Platforms --> 
+  <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> 
+  <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> 
+</p>
+
 ## 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jiaping9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jiapivialiu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="24" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:jiaping.liu@stat.ubc.ca" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="24" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com/maps/place/Room+3127,+Earth+Sciences+Building,+2207+Main+mall,+Vancouver,+BC+V6T+1Z4" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Location-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg" alt="Location" height="24" />
   </a>
 </p>
 
