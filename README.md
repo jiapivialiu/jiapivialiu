@@ -129,22 +129,5 @@ This section will showcase some of my projects and experiences. Feel free to exp
   <a href="https://discord.com/" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a>
 </p>
 
-## 🤝 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jiaping9/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24" />
-  </a>
-  <a href="https://github.com/jiapivialiu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="24" />
-  </a>
-  <a href="mailto:jiaping.liu@stat.ubc.ca" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="24" />
-  </a>
-  <a href="https://www.google.com/maps/place/Room+3127,+Earth+Sciences+Building,+2207+Main+mall,+Vancouver,+BC+V6T+1Z4" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg" alt="Location" height="24" />
-  </a>
-</p>
-
 
 Thank you for visiting my profile! Latest update at April 11, 2025.
