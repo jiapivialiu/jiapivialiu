@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jiapivialiu&show_icons=true&theme=light" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiapivialiu&layout=compact&theme=light" alt="Top Langs" />
-  </a>
   <a href="https://git.io/streak-stats">
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jiapivialiu&theme=light" alt="GitHub Streak" />
   </a>
