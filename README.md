@@ -33,46 +33,57 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-I am a fifth-year PhD Candidate in Statistics at The University of British Columbia. 
+I am a 5️⃣th-year PhD Candidate in Statistics at The University of British Columbia. My research focuses on **Computational Statistics**, **Machine Learning Algorithm**, **Time Series Analysis**, which allows me to design convex optimization models on sequential time series (and beyond), develop scalable machine learning algorithms, and solve real-life problems with guaranteed numeric accuracy and high-performance computing. 
 
-My academic experience as a **PhD researcher** and a **Statistical Consultant** at an Applied Statistics and Data Science consulting group, coupled with my industrial experience as a **Student Machine Learning Researcher** at Statistics Canada, and a **Data Analyst** at BOSCH have equipped me with extensive experience of collaborating with multi-functional teams including senior statisticians and data scientists, engineers, and business partners. 
+My academic experience as a **PhD Researcher** and **Senior Academic and Teaching Assistant** coupled with my industrial experience as a part-time **Statistical Consultant** at ASDa Group (UBC), **Student Machine Learning Researcher** at Statistics Canada, and a **Data Analyst Intern** at BOSCH have equipped me with extensive experience of collaborating with multi-functional teams including senior researchers, statisticians, data scientists, engineers, business partners, and healthcare professionals. 
 
-Over 10 years of experience working on various statistical problems has equipped me with a rigorous understanding of statistical principles, methodologies, real-life applications on various fields, and efficient computation and reproducible and reliable implementation through software development. 
+Over 1️⃣0️⃣ years of experience working on various statistical problems has equipped me with a rigorous understanding of statistical principles, methodologies, real-life applications on various fields, and efficient computation and reproducible and reliable implementation through software development. 
 <!-- I am passionate about leveraging innovative machine learning algorithms to redefine and modify gaming experience using scientific computing language and modern machine learning libraries. I am proficient in sharing results through presentations, papers, and interactive demonstrations. --> 
 
-Beyond the world of data, I enjoy staying active through lifting weights and cardios, fostering community by organizing graduate student seminars, and exploring various other interests in my daily life. I used to be a member in a debate team and a dance team.
+**I am passionate about leveraging reliable data-driven methods to drive business impact. I aspire to build my career at the intersection of product data science, machine learning, and business strategy. I thrive in collaborative, cross-functional environments and enjoy solving complex business challenges through analytical insights.**
+
+Beyond the world of data, I enjoy staying active through lifting weights and cardios, fostering community by organizing graduate student seminars, and exploring various other interests in my daily life. Feel free to connect with me on LinkedIn!
 
 ## 💼 Experience & Projects
 
-This section will showcase some of my projects and experiences. Feel free to explore my repositories to see my work in action!
+This section will showcase some of my projects and professional experiences. Feel free to explore my repositories!
 
 ### Recent Collaborative Work
 
-* Graphical Data Analysis through Convex Optimization with High-Order Divided Difference Regularization with General Loss Beyond Mean Squared Errors.
-  * *Manuscript in preparation.*
-  * Open-source implementation under development.
+* Project: **Algorithm Development** for Convex Optimization on Time Series and Images.
+  * Developed a modified Kalman filter algorithm in math.
+  * Coded the algorithm from scratch, 0% -- 💯%.
+  * Implementation is available on [glmgen/trendfilter](https://github.com/glmgen/trendfilter).
+  * Coding in Python & R for various applications in progress.
+  * Paper writing in progress.
   * Collaborators: @dajmcdon et al.
-* Path-Structured Data Analysis through Convex Optimization with High-Order Divided Difference Regularization.
-  * *Manuscript in preparation.*
-  * Open-source R & Python softwares with C++ backend under development.
-  * Implementation on univariate data in glmgen-verse *[trendfilter](https://github.com/glmgen/trendfilter)*.
-  * Collaborators: @dajmcdon et al.
-* Time Series Analysis through Convex Optimization with $\ell_1$ Trend Filtering Regularization with Application in Epidemiology.
-  * [*rtestim*: Time-Varying Reproduction Number Estimation with Trend Filtering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324) *Publication on PLoS Computational Biology, August 2024.*
-  * Open-source R software with C++ backend [rtestim](https://dajmcdon.github.io/rtestim/).
+ 
+* Project: **Methodology Development** for Time Series Trend Filtering & Application in Uncovering the Transmissibility of Infectious Diseases.
+  * *Publication on PLoS Computational Biology, August 2024*: [*rtestim*: Time-Varying Reproduction Number Estimation with Trend Filtering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324)
+  * ✍️Finished 90% of the paper writing and revising. Finished all experiments.
+  * 🖥️Coded the algorithm (using proximal Newton, ADMM, and dynamic programming) in C++ from scratch.
+  * An R package wrapper is availble in [rtestim](https://dajmcdon.github.io/rtestim/) for scalable computation! 🎉
   * Collaborators: @dajmcdon, @zcaiElvis, PG.
-* Fine-Tuned Large Language Models-Based AI-Generated Text Detection for *Microsoft Fabric and AI Learning Hackathon 2024*.
+ 
+* Side Project: **LLM Fine-Tuning** for AI-Generated Text Detection.
   * Open-Source HuggingFace Model [*e5-small-lora*](https://huggingface.co/MayZhou/e5-small-lora-ai-generated-detector}{e5-small-lora}).
-  * Ranked TOP on [RAID](https://raid-bench.xyz/leaderboard) benchmark leaderboard.
+  * Ranked TOP1️⃣ on [RAID](https://raid-bench.xyz/leaderboard) benchmark leaderboard.
   * Collaborators: @menglinzhou, BZ.
+
+* Internship Project: **Machine Learning** in Record Linkage
+  * Applied various classification methods and optimized using nested cross validation.
+  * Improved record matching accuracy from the logistic regression baseline of 84% to 99.5%, effectively handling over 100,000 records with 10+ matching features and
+30% missing data. 
 
 ### Current Indie Work
 
-* Financial text analysis hub for semantic analysis, sentiment understanding, time sereis forecasting, and more.
+* Side Project: **Fincial LLM** on Financial textual data analysis 
+  * Main tasks: semantic analysis, sentiment understanding, time sereis forecasting, and more.
   * Open-source resources [*fintext-forecasting*](https://github.com/jiapivialiu/fintext-forecasting) under active development.
-* Statflix & Chill: [*statflix-n-chill*](https://github.com/jiapivialiu/statflix-n-chill)
-  * A list of useful things that require low efforts for statistical researchers to do while in low energy 🪫.
-  * Welcome collaborators!
+
+* Side Project: Statflix & Chill: [*statflix-n-chill*](https://github.com/jiapivialiu/statflix-n-chill)
+  * A list of useful things that require low efforts for statistical researchers to do while in low energy🪫.
+  * Welcome collaborators!👋
  
 ### Past Interests
 * Statistics Graduate Student Seminar Organizer, UBC, Vancouver in 2023-2025.
@@ -80,13 +91,11 @@ This section will showcase some of my projects and experiences. Feel free to exp
 * Statistical Consultant at Applied Statistics and Statistcal Consultant group, UBC, Vancouver in 2021-2023.
   * Senior collaborators: BB, NSK at UBC, Vancouver.
 * Master's thesis on Theoretical Exploration of Generative Adversarial Networks in 2019-2020.
-  * Supervisor: Maia Fraser, The University of Ottawa.
+  * Supervisor: Professor Maia Fraser, The University of Ottawa.
 * Student Researcher Project at Statistics Canada: An End-to-End Project on Machine Learning for Large-Scale and Multi-Source Record Linkage in 2019.
   * Supervisor: AS at Methodology Department, Statistics Canada, Ottawa.
 * Data Analysis Internship at BOSCH China in 2017-2018.
   * Supervisor: BZ at Hangzhou, BOSCH China.
-* Survey studies on various topics including usage of cloud computing for big data for various national competitions in China in 2015-2017.
-  * Collaborators: JJ, YY, SY, et al.
 
 ## 🧰 Toolkits
 
@@ -124,4 +133,4 @@ This section will showcase some of my projects and experiences. Feel free to exp
 </p>
 
 
-Thank you for visiting my profile! Latest update at April 11, 2025.
+Thank you for visiting my profile! Latest update at June 22, 2025.
