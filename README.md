@@ -142,4 +142,4 @@ This section will showcase some of my projects and professional experiences. Fee
 </p>
 
 
-Thank you for visiting my profile! Latest update at June 22, 2025.
+Thank you for visiting my profile! Latest update at August 29, 2025.
