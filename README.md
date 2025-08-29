@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-I am a 5️⃣th-year PhD Candidate in Statistics at The University of British Columbia. My research focuses on **Computational Statistics**, **Machine Learning Algorithm**, **Time Series Analysis**, which allows me to design convex optimization models on sequential time series (and beyond), develop scalable machine learning algorithms, and solve real-life problems with guaranteed numeric accuracy and high-performance computing. 
+I am a final-year PhD Candidate in Statistics at The University of British Columbia. My research focuses on **Computational Statistics**, **Machine Learning Algorithm**, **Time Series Analysis**, which allows me to design convex optimization models on sequential time series (and beyond), develop scalable machine learning algorithms, and solve real-life problems with guaranteed numeric accuracy and high-performance computing. 
 
-My academic experience as a **PhD Researcher** and **Senior Academic and Teaching Assistant** coupled with my industrial experience as a part-time **Statistical Consultant** at ASDa Group (UBC), **Student Machine Learning Researcher** at Statistics Canada, and a **Data Analyst Intern** at BOSCH have equipped me with extensive experience of collaborating with multi-functional teams including senior researchers, statisticians, data scientists, engineers, business partners, and healthcare professionals. 
+My academic experience as a **PhD Researcher** and **Senior Academic and Teaching Assistant** coupled with my industrial experience as a **Risk Modeling Analyst** at Royal Bank of Canada, **Statistical Consultant** at applied statistics and data analysi group (UBC), **Student Machine Learning Researcher** at Statistics Canada, and a **Data Analyst Intern** at BOSCH have equipped me with extensive experience of collaborating with multi-functional teams including senior researchers, statisticians, data scientists, engineers, business partners, and healthcare professionals. 
 
-Over 1️⃣0️⃣ years of experience working on various statistical problems has equipped me with a rigorous understanding of statistical principles, methodologies, real-life applications on various fields, and efficient computation and reproducible and reliable implementation through software development. 
+Over 1️⃣0️⃣ years of experience working on various data-related problems has equipped me with a rigorous understanding of statistical principles, machine learning methodologies, real-life applications on various fields, and efficient computation and reproducible and reliable implementation through software development. 
 <!-- I am passionate about leveraging innovative machine learning algorithms to redefine and modify gaming experience using scientific computing language and modern machine learning libraries. I am proficient in sharing results through presentations, papers, and interactive demonstrations. --> 
 
 **I am passionate about leveraging reliable data-driven methods to drive business impact. I aspire to build my career at the intersection of product data science, machine learning, and business strategy. I thrive in collaborative, cross-functional environments and enjoy solving complex business challenges through analytical insights.**
@@ -46,38 +46,43 @@ Beyond the world of data, I enjoy staying active through lifting weights and car
 
 ## 💼 Experience & Projects
 
-This section will showcase some of my projects and professional experiences. Feel free to explore my repositories!
+This section will showcase some of my projects and professional experiences. Feel free to explore my repositories! Links provided below.
 
-### Recent Collaborative Work
+### Upcoming Internship
+* Retail Risk Modeling Analyst at Royal Bank of Canada (2025)
+  * Coming soon.🎥
 
-* Project: **Algorithm Development** for Convex Optimization on Time Series and Images.
-  * Developed a modified Kalman filter algorithm in math.
-  * Coded the algorithm from scratch, 0% -- 💯%.
-  * Implementation is available on [glmgen/trendfilter](https://github.com/glmgen/trendfilter).
-  * Coding in Python & R for various applications in progress.
-  * Paper writing in progress.
+### Recent Collaborative Research
+
+* Project: **Algorithm Development** for Accurate Ill-Conditioned Linear System Solver. (2023 - 2025)
+  * Derived a modified Kalman filter algorithm in math to solver linear system based on divided difference/discrete derivatives.
+  * Coded the algorithm from scratch, 0% -- 💯%. Implementation in C++ is available in [glmgen/trendfilter](https://github.com/glmgen/trendfilter).
+  * Finished draft manuscript writing.
+  * Tested in simulation showing **better numeric accuracy** on solving the ill-conditioned linear system compared to existing solvers and staying correct when competitors fail.
   * Collaborators: @dajmcdon et al.
  
-* Project: **Methodology Development** for Time Series Trend Filtering & Application in Uncovering the Transmissibility of Infectious Diseases.
+* Project: **Methodology Development** for Time Series Trend Filtering. (2022 - 2024)
   * *Publication on PLoS Computational Biology, August 2024*: [*rtestim*: Time-Varying Reproduction Number Estimation with Trend Filtering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324)
-  * ✍️Finished 90% of the paper writing and revising. Finished all experiments.
-  * 🖥️Coded the algorithm (using proximal Newton, ADMM, and dynamic programming) in C++ from scratch.
+  * ✍️Finished the paper writing and revision. 
+  * 🖥️Coded the machine learning algorithm (proximal Newton, ADMM, and dynamic programming) in C++ from scratch.
   * An R package wrapper is availble in [rtestim](https://dajmcdon.github.io/rtestim/) for scalable computation! 🎉
+  * Validated to be more accurate than competitors in synthetic data experiments.
+  * Applied the method in Covid-19 transmissibility filtering with adaptive changepoint detection.
   * Collaborators: @dajmcdon, @zcaiElvis, PG.
  
-* Side Project: **LLM Fine-Tuning** for AI-Generated Text Detection.
+* Side Project: **LLM Fine-Tuning** for AI-Generated Text Detection. (2024)
   * Open-Source HuggingFace Model [*e5-small-lora*](https://huggingface.co/MayZhou/e5-small-lora-ai-generated-detector}{e5-small-lora}).
   * Ranked TOP1️⃣ on [RAID](https://raid-bench.xyz/leaderboard) benchmark leaderboard.
   * Collaborators: @menglinzhou, BZ.
 
-* Internship Project: **Machine Learning** in Record Linkage
+* Internship Project: **Machine Learning** in Multi-Source Record Linkage. (2019)
   * Applied various classification methods and optimized using nested cross validation.
-  * Improved record matching accuracy from the logistic regression baseline of 84% to 99.5%, effectively handling over 100,000 records with 10+ matching features and
-30% missing data. 
+  * Improved record matching accuracy from the logistic regression baseline of 84% to 99.5%, effectively handling over 100,000 records with 10+ matching features and 30% missing data.
+  * Collaborators: Methodology Department, Statistics Canada.
 
-### Current Indie Work
+### Ongoing Indie Projects
 
-* Side Project: **Fincial LLM** on Financial textual data analysis 
+* Side Project: **Fincial LLM** on Financial textual data analysis
   * Main tasks: semantic analysis, sentiment understanding, time sereis forecasting, and more.
   * Open-source resources [*fintext-forecasting*](https://github.com/jiapivialiu/fintext-forecasting) under active development.
 
@@ -86,16 +91,20 @@ This section will showcase some of my projects and professional experiences. Fee
   * Welcome collaborators!👋
  
 ### Past Interests
-* Statistics Graduate Student Seminar Organizer, UBC, Vancouver in 2023-2025.
+* Graduate Academic Assistant on Master's of Data Science, UBC, Vancouver. (2025)
+  * [Regression Cookbook](https://alexrod61.github.io/regression-cookbook/) Writing.
+* Senior/Graduate Teaching Assistant at Department of Statistics, UBC, Vancouver. (2020 - 2025)
+* Statistics Graduate Student **Seminar Organizer**, UBC, Vancouver. (2023 - 2025)
   * Peer contributors: @xijohnny, JH.
-* Statistical Consultant at Applied Statistics and Statistcal Consultant group, UBC, Vancouver in 2021-2023.
+* **Statistical Consultant** at Applied Statistics and Statistcal Consultant group, UBC, Vancouver. (2021 - 2023)
   * Senior collaborators: BB, NSK at UBC, Vancouver.
-* Master's thesis on Theoretical Exploration of Generative Adversarial Networks in 2019-2020.
+* Master's thesis on Statistial Learning. (2019 - 2020)
+  * Thesis Topic on Theoretical Exploration of Generative Adversarial Networks. 
   * Supervisor: Professor Maia Fraser, The University of Ottawa.
-* Student Researcher Project at Statistics Canada: An End-to-End Project on Machine Learning for Large-Scale and Multi-Source Record Linkage in 2019.
+* **Student Machine Learning Researcher** project at Statistics Canada. (May - August 2019)
   * Supervisor: AS at Methodology Department, Statistics Canada, Ottawa.
-* Data Analysis Internship at BOSCH China in 2017-2018.
-  * Supervisor: BZ at Hangzhou, BOSCH China.
+* **Data Analysis Intern** at BOSCH. (2017 - 2018)
+  * Supervisor: BZ at Hangzhou, BOSCH.
 
 ## 🧰 Toolkits
 
