@@ -19,15 +19,6 @@ Here are some ideas to get you started:
   <p>A Research Scientist with a strong foundation in Statistics, Data Science, and Machine Learning.</p>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jiapivialiu&theme=light" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
 
 <br>
 
