@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Hi there 👋 I'm Olivia 瓶子🫙</h1>
-  <p>A Research Scientist with a strong foundation in Statistics, Data Science, and Machine Learning.</p>
+  <p>Machine learning system development and evaluation with a strong foundation in statistical reasoning.</p>
 </div>
 
 
