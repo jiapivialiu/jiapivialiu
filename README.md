@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h1>Hi there 👋 I'm Olivia 瓶子🫙</h1>
+  <h1>Hi there 👋 I'm Olivia </h1>
   <p>Machine learning system development and evaluation with a strong foundation in statistical reasoning.</p>
 </div>
 
@@ -66,4 +66,4 @@ Over 1️⃣0️⃣ years of experience working on various data-related problems
 </p>
 
 
-Thank you for visiting my profile! Latest update at August 29, 2025.
+Thank you for visiting my profile! Latest update at August 17, 2026.
